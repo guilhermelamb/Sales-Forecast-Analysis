@@ -1,0 +1,11 @@
+﻿cluster;sotreID;store;latitude;longitude;sales
+Cluster1;1;Name_Store_1;-29.37725407;-50.87459715;1252
+Cluster1;2;Name_Store_2;-29.16270011;-51.17641468;2952
+Cluster2;3;Name_Store_3;-29.98610101;-50.13778782;4421
+Cluster2;4;Name_Store_4;-29.75001081;-50.03251841;2294
+Cluster2;5;Name_Store_5;-29.34419813;-49.7390839;3995
+Cluster3;6;Name_Store_6;-24.9604942;-53.44225717;3612
+Cluster1;7;Name_Store_7;-25.49817596;-49.19886767;4034
+Cluster3;8;Name_Store_8;-23.31733667;-51.16196762;4803
+Cluster3;9;Name_Store_9;-15.61441071;-56.07739107;4826
+Cluster2;10;Name_Store_10;-20.34890781;-40.28388304;4894
