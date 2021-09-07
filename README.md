@@ -8,6 +8,6 @@ The big difference lies in the use of ipywidgets combined with the other librari
 
 Below is a small demonstration of the notebook.
 
-![](https://imgflip.com/embed/5m6ial)
+![](img/example.gif)
 
 Any suggestion for improvement is welcome =]
